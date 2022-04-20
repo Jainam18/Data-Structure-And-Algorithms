@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "MERGESOR.C": "cpp",
+        "conio.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "cmath": "c",
+        "DEQUE.C": "cpp"
+    }
+}
